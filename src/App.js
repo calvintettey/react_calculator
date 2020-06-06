@@ -34,6 +34,6 @@ export default App;
 
 /*
 Calvin Tettey
-React - Components and  
+React - Components & Props 
 Codetrain Gen14
 */ 
